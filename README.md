@@ -1,4 +1,4 @@
-Ben Thomas' frontend-nanodegree-mobile-portfolio
+Ben Thomas' frontend-nanodegree-sample-portfolio-optimization
 ===============================
 
 # Website Performance Optimization portfolio project
